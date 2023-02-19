@@ -1,0 +1,15 @@
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\bin\Debug\net6.0\ImpressaoValores.exe
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\bin\Debug\net6.0\ImpressaoValores.deps.json
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\bin\Debug\net6.0\ImpressaoValores.runtimeconfig.json
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\bin\Debug\net6.0\ImpressaoValores.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\bin\Debug\net6.0\ImpressaoValores.pdb
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.csproj.AssemblyReference.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.AssemblyInfoInputs.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.AssemblyInfo.cs
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.csproj.CoreCompileInputs.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\refint\ImpressaoValores.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.pdb
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ImpressaoValores.genruntimeconfig.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\ImpressaoValores\ImpressaoValores\obj\Debug\net6.0\ref\ImpressaoValores.dll
