@@ -1,0 +1,15 @@
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\bin\Debug\net7.0\DadosFuncionarioExercicio.exe
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\bin\Debug\net7.0\DadosFuncionarioExercicio.deps.json
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\bin\Debug\net7.0\DadosFuncionarioExercicio.runtimeconfig.json
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\bin\Debug\net7.0\DadosFuncionarioExercicio.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\bin\Debug\net7.0\DadosFuncionarioExercicio.pdb
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.csproj.AssemblyReference.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.AssemblyInfoInputs.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.AssemblyInfo.cs
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.csproj.CoreCompileInputs.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\refint\DadosFuncionarioExercicio.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.pdb
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\DadosFuncionarioExercicio.genruntimeconfig.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\DadosFuncionarioExercicio\DadosFuncionarioExercicio\obj\Debug\net7.0\ref\DadosFuncionarioExercicio.dll
