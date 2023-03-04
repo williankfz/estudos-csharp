@@ -1,0 +1,15 @@
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\bin\Debug\net7.0\BancoExercicio.exe
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\bin\Debug\net7.0\BancoExercicio.deps.json
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\bin\Debug\net7.0\BancoExercicio.runtimeconfig.json
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\bin\Debug\net7.0\BancoExercicio.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\bin\Debug\net7.0\BancoExercicio.pdb
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.csproj.AssemblyReference.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.AssemblyInfoInputs.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.AssemblyInfo.cs
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\refint\BancoExercicio.dll
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.pdb
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\BancoExercicio.genruntimeconfig.cache
+C:\Users\A. Willian\Desktop\Willian\estudos\estudos-csharp\BancoExercicio\BancoExercicio\obj\Debug\net7.0\ref\BancoExercicio.dll
