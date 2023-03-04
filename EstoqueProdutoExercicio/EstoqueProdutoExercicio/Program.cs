@@ -2,33 +2,36 @@
 using EstoqueProdutoExercicio;
 using System.Globalization;
 
-Produto p = new Produto();
+Produto produto;
 
 Console.WriteLine("Entre com os dados do produto: ");
 
 Console.Write("Nome: ");
-p.Nome = Console.ReadLine();
+string nome = Console.ReadLine();
 
 Console.Write("Preço: ");
-p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+double preco = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
 Console.Write("Quantidade: ");
-p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+int quantidade = int.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
-Console.WriteLine(p);
+produto = new Produto(nome, preco, quantidade);
+
+Console.WriteLine(produto);
+Console.WriteLine();
+
+Console.Write("Aumente o numero do produto no estoque: ");
+int novoValor = int.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+produto.Adicionar(novoValor);
+
+Console.WriteLine("Valor atualizado: ");
+Console.WriteLine(produto);
 
 Console.WriteLine();
 
-Console.Write("Aumente o numero de produtos no estoque: ");
-int qte = int.Parse(Console.ReadLine());
-p.Adicionar(qte);
+Console.Write("Diminua o numero do produto no estoque: ");
+novoValor = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+produto.Remover(novoValor);
 
-Console.WriteLine(p);
-
-Console.WriteLine();
-
-Console.Write("Diminua o numero de produtos no estoque: ");
-qte = int.Parse(Console.ReadLine());
-p.Remover(qte);
-
-Console.WriteLine("O valor final do estoque é: " + p);
+Console.WriteLine("Valor atualizado: ");
+Console.WriteLine(produto);
